@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         npmjs.com-use-yarn
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Changes install field to use yarn instead of npm on npmjs.com
 // @author       Bricksoft
 // @downloadURL  https://raw.githubusercontent.com/bricksoft/npmjs.com-use-yarn/master/npmjs.com-use-yarn.user.js
 // @updateURL    https://raw.githubusercontent.com/bricksoft/npmjs.com-use-yarn/master/npmjs.com-use-yarn.user.js
-// @match        https://www.npmjs.com/package/*
+// @match        *://://www.npmjs.com/package/*
 // @grant        none
 // ==/UserScript==
 
