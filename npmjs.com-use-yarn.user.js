@@ -6,7 +6,7 @@
 // @author       Bricksoft
 // @downloadURL  https://raw.githubusercontent.com/bricksoft/npmjs.com-use-yarn/master/npmjs.com-use-yarn.user.js
 // @updateURL    https://raw.githubusercontent.com/bricksoft/npmjs.com-use-yarn/master/npmjs.com-use-yarn.user.js
-// @match        *://://www.npmjs.com/package/*
+// @match        *://www.npmjs.com/package/*
 // @grant        none
 // ==/UserScript==
 
